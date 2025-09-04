@@ -1,1 +1,3 @@
-# Instacart_Basket_Analysis
+# Instacart Grocery Basket Analysis
+
+## Project Summary
